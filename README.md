@@ -1,6 +1,4 @@
-## ccmdi
-
- i try to build cool stuff
+i try to build cool stuff
 ### <img src="https://cdn.simpleicons.org/python/f4bd53" width="20" height="20"/> Python
  - ☆ [![MetaTag](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=58&height=12&lines=MetaTag%3A)](https://github.com/ccmdi/MetaTag) Tool to obtain detailed metadata from Google Street View locations.
  - ☆ [![GeoBench](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=65&height=12&lines=GeoBench%3A)](https://geobench.org) An LLM benchmarking framework for GeoGuessr & geolocation.
