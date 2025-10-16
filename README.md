@@ -12,7 +12,7 @@ i try to build cool stuff
 
 ### <img src="https://cdn.simpleicons.org/react/f4bd53" width="20" height="20"/> React
  - ☆ [![ccmdi](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=43&height=12&lines=ccmdi%3A)](https://ccmdi.com) A portfolio designed from my Obsidian PKMS, built with React and Tailwind.
- - ☆ [![feed.pro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&center=false&vCenter=true&width=65&height=12&lines=feed.pro%3A)](https://github.com/ccmdi) A social media aggregator and management app for all platforms.
+ - ☆ [![feed.pro](https://readme-typing-svg-ccmdi.demolab.com?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&center=false&vCenter=true&width=65&height=12&lines=feed.pro%3A)](https://github.com/ccmdi) A social media aggregator and management app for all platforms.
  - [![immortalgames](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=101&height=12&lines=immortalgames%3A)](https://immortalgames.cc) A collection of beautiful chess games.
 
 ### <img src="https://cdn.simpleicons.org/typescript/f4bd53" width="20" height="20"/> Typescript
