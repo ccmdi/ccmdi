@@ -9,6 +9,7 @@ i try to build cool stuff
  - [![GeoGuessr agentic framework](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=202&height=12&lines=GeoGuessr%20agentic%20framework%3A)](https://github.com/ccmdi/geoguessr-agent) Autonomous framework using browser automation to allow large language models to play GeoGuessr.
  - [![explain-cli](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=86&height=12&lines=explain-cli%3A)](https://github.com/ccmdi/explain-cli) Summarize Git commits/PRs with Claude Code or Gemini CLI
  - [![Anki TeachMe](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=94&height=12&lines=Anki%20TeachMe%3A)](https://github.com/ccmdi/anki-teachme) Anki plugin for voice-to-voice feedback from flashcards
+ - [![GeoGuessr QA (RAG)](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&center=false&vCenter=true&width=137&height=12&lines=GeoGuessr%20QA%20(RAG)%3A)](https://github.com/ccmdi) A simple RAG system in Discord for answering questions about GeoGuessr using a knowledge base and semantic search.
 
 ### <img src="https://cdn.simpleicons.org/react/f4bd53" width="20" height="20"/> React
  - ☆ [![ccmdi](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=43&height=12&lines=ccmdi%3A)](https://ccmdi.com) A portfolio designed from my Obsidian PKMS, built with React and Tailwind.
@@ -16,8 +17,8 @@ i try to build cool stuff
  - [![immortalgames](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=101&height=12&lines=immortalgames%3A)](https://immortalgames.cc) A collection of beautiful chess games.
 
 ### <img src="https://cdn.simpleicons.org/typescript/f4bd53" width="20" height="20"/> Typescript
- - [![Obsidian components](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=144&height=12&lines=Obsidian%20components%3A)](https://github.com/ccmdi/obsidian-components) Reusable widgets plugin for Obsidian.
  - [![Obsidian Map+](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=101&height=12&lines=Obsidian%20Map%2B%3A)](https://github.com/ccmdi/obsidian-map-plus) A performant and customizable map inside Obsidian Bases.
+ - [![Obsidian components](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=144&height=12&lines=Obsidian%20components%3A)](https://github.com/ccmdi/obsidian-components) Reusable widgets plugin for Obsidian.
  - [![Obsidian smart link formatter](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=216&height=12&lines=Obsidian%20smart%20link%20formatter%3A)](https://github.com/ccmdi/smart-link-formatter) A plugin for Obsidian that automatically formats pasted links with metadata, with explicit support for YouTube.
 
 
