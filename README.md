@@ -15,12 +15,14 @@ i try to build cool stuff
  - ☆ [![ccmdi](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=43&height=12&lines=ccmdi%3A)](https://ccmdi.com) A portfolio designed from my Obsidian PKMS, built with React and Tailwind.
  - ☆ [![feed.pro](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&center=false&vCenter=true&width=65&height=12&lines=feed.pro%3A)](https://github.com/ccmdi) A social media aggregator and management app for all platforms.
  - [![immortalgames](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=101&height=12&lines=immortalgames%3A)](https://immortalgames.cc) A collection of beautiful chess games.
- - [![Vali GUI](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=65&height=12&lines=Vali%20GUI%3A)](https://valig.vercel.app) A visual configuration editor for Vali, a map generation tool, with JSON schema validation and expression autocomplete.
 
 ### <img src="https://cdn.simpleicons.org/typescript/f4bd53" width="20" height="20"/> Typescript
  - [![Obsidian Map+](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=101&height=12&lines=Obsidian%20Map%2B%3A)](https://github.com/ccmdi/obsidian-map-plus) A performant and customizable map inside Obsidian Bases.
  - [![Obsidian components](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=144&height=12&lines=Obsidian%20components%3A)](https://github.com/ccmdi/obsidian-components) Reusable widgets plugin for Obsidian.
  - [![Obsidian smart link formatter](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=216&height=12&lines=Obsidian%20smart%20link%20formatter%3A)](https://github.com/ccmdi/smart-link-formatter) A plugin for Obsidian that automatically formats pasted links with metadata, with explicit support for YouTube.
+
+### <img src="https://cdn.simpleicons.org/csharp/f4bd53" width="20" height="20"/> C#
+ - [![Vali GUI](https://readme-typing-svg-ccmdi.vercel.app?font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&center=false&vCenter=true&width=65&height=12&lines=Vali%20GUI%3A)](https://valig.vercel.app) A visual configuration editor for Vali, a map generation tool, with JSON schema validation and expression autocomplete.
 
 
 ---
