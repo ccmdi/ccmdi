@@ -40,6 +40,9 @@ i try to build cool stuff
  - ☆ [![Repo Scout](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=79&height=12&lines=Repo%20Scout%3A)](https://github.com/ccmdi) A web application that helps open-source contributors find repositories using a scoring algorithm.
  - ☆ [![feed.pro](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=65&height=12&lines=feed.pro%3A)](https://github.com/ccmdi) A social media aggregator and management app for all platforms.
 
+### <img src="language-icons/rust-8662ac58.svg" width="20" height="20"/> Rust
+ - [![Firefox Tabs Host](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=130&height=12&lines=Firefox%20Tabs%20Host%3A)](https://github.com/ccmdi/ff-tabs-host) Native messaging host for Firefox tabs over TCP.
+
 
 ---
 *<small>Generated from [ccmdi.com](https://ccmdi.com)</small>*
