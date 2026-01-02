@@ -12,6 +12,7 @@ i try to build cool stuff
  - [![GeoGuessr QA (RAG)](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=137&height=12&lines=GeoGuessr%20QA%20(RAG)%3A)](https://github.com/ccmdi) A simple RAG system in Discord for answering questions about GeoGuessr using a knowledge base and semantic search.
 
 ### <img src="language-icons/typescript-4ab5602f.svg" width="20" height="20"/> Typescript
+ - [![webdle](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=50&height=12&lines=webdle%3A)](https://webdle.dev) Wordle for frontend, with AI orchestration for question generation.
 
 <details open>
 <summary><img src="https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=86&height=12&lines=Obsidian%20(4)" alt="Obsidian" vertical-align="middle" /></summary>
