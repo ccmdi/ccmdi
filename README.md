@@ -1,5 +1,5 @@
 i try to build cool stuff
-### <img src="https://cdn.simpleicons.org/python/f4bd53" width="20" height="20"/> Python
+### <img src="language-icons/python-d4d18a51.svg" width="20" height="20"/> Python
  - ☆ [![GeoBench](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=65&height=12&lines=GeoBench%3A)](https://geobench.org) An LLM benchmarking framework for GeoGuessr & geolocation.
  - ☆ [![OSINTBench](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=79&height=12&lines=OSINTBench%3A)](https://osintbench.org) An LLM benchmarking framework for OSINT tasks.
  - ☆ [![Obsidianki](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=79&height=12&lines=Obsidianki%3A)](https://github.com/ccmdi/obsidianki) CLI tool that converts Obsidian notes to Anki flashcards automatically using an LLM.
@@ -11,7 +11,7 @@ i try to build cool stuff
  - [![Anki TeachMe](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=94&height=12&lines=Anki%20TeachMe%3A)](https://github.com/ccmdi/anki-teachme) Anki plugin for voice-to-voice feedback from flashcards
  - [![GeoGuessr QA (RAG)](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=137&height=12&lines=GeoGuessr%20QA%20(RAG)%3A)](https://github.com/ccmdi) A simple RAG system in Discord for answering questions about GeoGuessr using a knowledge base and semantic search.
 
-### <img src="https://cdn.simpleicons.org/typescript/f4bd53" width="20" height="20"/> Typescript
+### <img src="language-icons/typescript-4ab5602f.svg" width="20" height="20"/> Typescript
  - [![webdle](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=50&height=12&lines=webdle%3A)](https://webdle.dev) Wordle for frontend, with AI orchestration for question generation.
 
 <details open>
@@ -33,15 +33,15 @@ i try to build cool stuff
  - [![Flow Launcher - Codebases](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=187&height=12&lines=Flow%20Launcher%20-%20Codebases%3A)](https://github.com/ccmdi/Flow.Launcher.Plugin.Codebases) Flow Launcher plugin for searching local codebases.
 </details>
 
-### <img src="https://cdn.simpleicons.org/react/f4bd53" width="20" height="20"/> React
+### <img src="language-icons/react-dd364c5c.svg" width="20" height="20"/> React
  - ☆ [![ccmdi](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=43&height=12&lines=ccmdi%3A)](https://ccmdi.com) A portfolio designed from my Obsidian PKMS, built with React and Tailwind.
  - [![immortalgames](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=101&height=12&lines=immortalgames%3A)](https://immortalgames.cc) A collection of beautiful chess games.
 
-### <img src="https://cdn.simpleicons.org/nextdotjs/f4bd53" width="20" height="20"/> Nextjs
+### <img src="language-icons/nextjs-228dc977.svg" width="20" height="20"/> Nextjs
  - ☆ [![Repo Scout](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=79&height=12&lines=Repo%20Scout%3A)](https://github.com/ccmdi) A web application that helps open-source contributors find repositories using a scoring algorithm.
  - ☆ [![feed.pro](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=65&height=12&lines=feed.pro%3A)](https://github.com/ccmdi) A social media aggregator and management app for all platforms.
 
-### <img src="https://cdn.simpleicons.org/rust/f4bd53" width="20" height="20"/> Rust
+### <img src="language-icons/rust-8662ac58.svg" width="20" height="20"/> Rust
  - [![Firefox Tabs Host](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=130&height=12&lines=Firefox%20Tabs%20Host%3A)](https://github.com/ccmdi/ff-tabs-host) Native messaging host for Firefox tabs over TCP.
 
 
