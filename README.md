@@ -12,6 +12,7 @@ i try to build cool stuff
  - [![GeoGuessr QA (RAG)](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=137&height=12&lines=GeoGuessr%20QA%20(RAG)%3A)](https://github.com/ccmdi) A simple RAG system in Discord for answering questions about GeoGuessr using a knowledge base and semantic search.
 
 ### <img src="language-icons/typescript-4ab5602f.svg" width="20" height="20"/> Typescript
+ - [![Claudeview](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=79&height=12&lines=Claudeview%3A)](https://github.com/ccmdi) A TypeScript SDK for managing Claude Code instances.
  - [![webdle](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=50&height=12&lines=webdle%3A)](https://webdle.dev) Wordle for frontend, with AI orchestration for question generation.
 
 <details open>
@@ -23,6 +24,11 @@ i try to build cool stuff
  - [![Obsidian smart link formatter](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=216&height=12&lines=Obsidian%20smart%20link%20formatter%3A)](https://github.com/ccmdi/smart-link-formatter) A plugin for Obsidian that automatically formats pasted links with metadata, with explicit support for YouTube.
 </details>
 
+### <img src="language-icons/react-dd364c5c.svg" width="20" height="20"/> React
+ - ☆ [![ccmdi](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=43&height=12&lines=ccmdi%3A)](https://ccmdi.com) A portfolio designed from my Obsidian PKMS.
+ - ☆ [![Claudeverse](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=86&height=12&lines=Claudeverse%3A)](https://github.com/ccmdi) A dashboard to manage Claude Code instances, with syncback to each task's "source of truth".
+ - [![immortalgames](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=101&height=12&lines=immortalgames%3A)](https://immortalgames.cc) A collection of beautiful chess games.
+
 ### <img src="language-icons/c--801c13c6.svg" width="20" height="20"/> C#
  - [![Vali GUI](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=65&height=12&lines=Vali%20GUI%3A)](https://valig.vercel.app) A visual configuration editor for Vali, a map generation tool, with JSON schema validation and expression autocomplete.
 
@@ -33,12 +39,8 @@ i try to build cool stuff
  - [![Flow Launcher - Codebases](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=187&height=12&lines=Flow%20Launcher%20-%20Codebases%3A)](https://github.com/ccmdi/Flow.Launcher.Plugin.Codebases) Flow Launcher plugin for searching local codebases.
 </details>
 
-### <img src="language-icons/react-dd364c5c.svg" width="20" height="20"/> React
- - ☆ [![ccmdi](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=43&height=12&lines=ccmdi%3A)](https://ccmdi.com) A portfolio designed from my Obsidian PKMS.
- - [![immortalgames](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=101&height=12&lines=immortalgames%3A)](https://immortalgames.cc) A collection of beautiful chess games.
-
 ### <img src="language-icons/nextjs-228dc977.svg" width="20" height="20"/> Nextjs
- - ☆ [![Repo Scout](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=79&height=12&lines=Repo%20Scout%3A)](https://github.com/ccmdi) A web application that helps open-source contributors find repositories using a scoring algorithm.
+ - ☆ [![Repo Scout](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=79&height=12&lines=Repo%20Scout%3A)](https://reposcout.dev) A web application that helps open-source contributors find repositories using a scoring algorithm.
  - ☆ [![feed.pro](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=65&height=12&lines=feed.pro%3A)](https://github.com/ccmdi) A social media aggregator and management app for all platforms.
 
 ### <img src="language-icons/rust-8662ac58.svg" width="20" height="20"/> Rust
