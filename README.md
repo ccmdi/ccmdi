@@ -16,10 +16,11 @@ i try to build cool stuff
  - [![webdle](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=50&height=12&lines=webdle%3A)](https://webdle.dev) Wordle for frontend, with AI orchestration for question generation.
 
 <details open>
-<summary><img src="https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=86&height=12&lines=Obsidian%20(4)" alt="Obsidian" vertical-align="middle" /></summary>
+<summary><img src="https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=86&height=12&lines=Obsidian%20(5)" alt="Obsidian" vertical-align="middle" /></summary>
 
- - [![Obsidian Map+](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=101&height=12&lines=Obsidian%20Map%2B%3A)](https://github.com/ccmdi/obsidian-map-plus) A performant and customizable map inside Obsidian Bases.
  - [![Propsec](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=58&height=12&lines=Propsec%3A)](https://github.com/ccmdi/propsec) Schema enforcement for Obsidian frontmatter.
+ - [![Obsidian Map+](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=101&height=12&lines=Obsidian%20Map%2B%3A)](https://github.com/ccmdi/obsidian-map-plus) A performant and customizable map inside Obsidian Bases.
+ - [![Relay](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=43&height=12&lines=Relay%3A)](https://github.com/ccmdi) Obsidian vault broadcasting; push and pull subsets of your vault to and from remote sources.
  - [![Obsidian components](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=144&height=12&lines=Obsidian%20components%3A)](https://github.com/ccmdi/obsidian-components) Reusable widgets plugin for Obsidian.
  - [![Obsidian smart link formatter](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=216&height=12&lines=Obsidian%20smart%20link%20formatter%3A)](https://github.com/ccmdi/smart-link-formatter) A plugin for Obsidian that automatically formats pasted links with metadata, with explicit support for YouTube.
 </details>
@@ -28,6 +29,11 @@ i try to build cool stuff
  - ☆ [![ccmdi](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=43&height=12&lines=ccmdi%3A)](https://ccmdi.com) A portfolio designed from my Obsidian PKMS.
  - ☆ [![Claudeverse](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=86&height=12&lines=Claudeverse%3A)](https://github.com/ccmdi) A dashboard to manage Claude Code instances, with syncback to each task's "source of truth".
  - [![immortalgames](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=101&height=12&lines=immortalgames%3A)](https://immortalgames.cc) A collection of beautiful chess games.
+
+### <img src="language-icons/nextjs-228dc977.svg" width="20" height="20"/> Nextjs
+ - ☆ [![Repo Scout](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=79&height=12&lines=Repo%20Scout%3A)](https://reposcout.dev) A web application that helps open-source contributors find repositories using a scoring algorithm.
+ - ☆ [![metamd](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=50&height=12&lines=metamd%3A)](https://meta.ccmdi.com) Wikipedia for GeoGuessr
+ - ☆ [![feed.pro](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=65&height=12&lines=feed.pro%3A)](https://github.com/ccmdi) A social media aggregator and management app for all platforms.
 
 ### <img src="language-icons/c--801c13c6.svg" width="20" height="20"/> C#
  - [![Vali GUI](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=65&height=12&lines=Vali%20GUI%3A)](https://valig.vercel.app) A visual configuration editor for Vali, a map generation tool, with JSON schema validation and expression autocomplete.
@@ -38,10 +44,6 @@ i try to build cool stuff
  - [![Flow Launcher - Browser Tabs Firefox](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=266&height=12&lines=Flow%20Launcher%20-%20Browser%20Tabs%20Firefox%3A)](https://github.com/ccmdi/Flow.Launcher.Plugin.BrowserTabsFirefox ) Flow Launcher plugin for searching Firefox tabs.
  - [![Flow Launcher - Codebases](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=187&height=12&lines=Flow%20Launcher%20-%20Codebases%3A)](https://github.com/ccmdi/Flow.Launcher.Plugin.Codebases) Flow Launcher plugin for searching local codebases.
 </details>
-
-### <img src="language-icons/nextjs-228dc977.svg" width="20" height="20"/> Nextjs
- - ☆ [![Repo Scout](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=79&height=12&lines=Repo%20Scout%3A)](https://reposcout.dev) A web application that helps open-source contributors find repositories using a scoring algorithm.
- - ☆ [![feed.pro](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=65&height=12&lines=feed.pro%3A)](https://github.com/ccmdi) A social media aggregator and management app for all platforms.
 
 ### <img src="language-icons/rust-8662ac58.svg" width="20" height="20"/> Rust
  - [![Firefox Tabs Host](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=130&height=12&lines=Firefox%20Tabs%20Host%3A)](https://github.com/ccmdi/ff-tabs-host) Native messaging host for Firefox tabs over TCP.
