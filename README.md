@@ -16,13 +16,14 @@ i try to build cool stuff
  - [![webdle](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=50&height=12&lines=webdle%3A)](https://webdle.dev) Wordle for frontend, with AI orchestration for question generation.
 
 <details open>
-<summary><img src="https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=86&height=12&lines=Obsidian%20(5)" alt="Obsidian" vertical-align="middle" /></summary>
+<summary><img src="https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=86&height=12&lines=Obsidian%20(6)" alt="Obsidian" vertical-align="middle" /></summary>
 
- - [![Propsec](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=58&height=12&lines=Propsec%3A)](https://github.com/ccmdi/propsec) Schema enforcement for Obsidian frontmatter.
+ - [![Propsec](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=58&height=12&lines=Propsec%3A)](https://github.com/ccmdi/propsec) Schema enforcement for Obsidian properties.
  - [![Obsidian Map+](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=101&height=12&lines=Obsidian%20Map%2B%3A)](https://github.com/ccmdi/obsidian-map-plus) A performant and customizable map inside Obsidian Bases.
  - [![Relay](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=43&height=12&lines=Relay%3A)](https://github.com/ccmdi) Obsidian vault broadcasting; push and pull subsets of your vault to and from remote sources.
  - [![Obsidian components](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=144&height=12&lines=Obsidian%20components%3A)](https://github.com/ccmdi/obsidian-components) Reusable widgets plugin for Obsidian.
  - [![Obsidian smart link formatter](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=216&height=12&lines=Obsidian%20smart%20link%20formatter%3A)](https://github.com/ccmdi/smart-link-formatter) A plugin for Obsidian that automatically formats pasted links with metadata, with explicit support for YouTube.
+ - [![Migrations](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=79&height=12&lines=Migrations%3A)](https://github.com/ccmdi/obsidian-migrations) Bulk replace text tool for Obsidian
 </details>
 
 ### <img src="language-icons/react-dd364c5c.svg" width="20" height="20"/> React
