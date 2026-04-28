@@ -15,7 +15,7 @@ i try to build cool stuff
 ### <img src="language-icons/typescript-4ab5602f.svg" width="20" height="20"/> Typescript
  - [![Claudeview](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=79&height=12&lines=Claudeview%3A)](https://github.com/ccmdi) A TypeScript SDK for managing Claude Code instances.
  - [![webdle](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=50&height=12&lines=webdle%3A)](https://webdle.dev) Wordle for frontend, with AI orchestration for question generation.
- - [![Claudeflare](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=86&height=12&lines=Claudeflare%3A)](https://github.com/ccmdi/claudeflare) A Claude-controlled reverse proxy
+ - [![Claudeflare](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=86&height=12&lines=Claudeflare%3A)](https://github.com/ccmdi/claudeflare) A Claude-controlled reverse proxy.
 
 <details open>
 <summary><img src="https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=86&height=12&lines=Obsidian%20(6)" alt="Obsidian" vertical-align="middle" /></summary>
@@ -52,6 +52,9 @@ i try to build cool stuff
 ### <img src="language-icons/rust-8662ac58.svg" width="20" height="20"/> Rust
  - [![tty](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=29&height=12&lines=tty%3A)](https://github.com/ccmdi/tty) Natural language to shell commands, instantly (via Groq)
  - [![Firefox Tabs Host](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd53&width=130&height=12&lines=Firefox%20Tabs%20Host%3A)](https://github.com/ccmdi/ff-tabs-host) Native messaging host for Firefox tabs over TCP.
+
+### <img src="https://cdn.simpleicons.org/c/f4bd53" width="20" height="20"/> C
+ - [![Chess puzzle extender](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=f4bd5380&width=158&height=12&lines=Chess%20puzzle%20extender%3A)](https://github.com/ccmdi) Tool to find the longest possible chess puzzle from a given starting position
 
 
 ---
