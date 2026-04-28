@@ -1,5 +1,5 @@
 i try to build cool stuff
-### <img src="https://cdn.simpleicons.org/python/7991eb" width="20" height="20" align="center"/> Python
+<h3><img src="language-icons/python-73b4de72.svg" width="20" height="20"> Python</h3>
  - ☆ [![GeoBench](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=65&height=12&lines=GeoBench%3A)](https://geobench.org) An LLM benchmarking framework for GeoGuessr & geolocation.
  - ☆ [![OSINTBench](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=79&height=12&lines=OSINTBench%3A)](https://osintbench.org) An LLM benchmarking framework for OSINT tasks.
  - ☆ [![Obsidianki](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=79&height=12&lines=Obsidianki%3A)](https://github.com/ccmdi/obsidianki) CLI tool that converts Obsidian notes to Anki flashcards automatically using an LLM.
@@ -12,7 +12,7 @@ i try to build cool stuff
  - [![Anki TeachMe](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=94&height=12&lines=Anki%20TeachMe%3A)](https://github.com/ccmdi/anki-teachme) Anki plugin for voice-to-voice feedback from flashcards
  - [![GeoGuessr QA (RAG)](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb80&width=137&height=12&lines=GeoGuessr%20QA%20(RAG)%3A)](https://github.com/ccmdi) A simple RAG system in Discord for answering questions about GeoGuessr using a knowledge base and semantic search.
 
-### <img src="https://cdn.simpleicons.org/typescript/7991eb" width="20" height="20" align="center"/> Typescript
+<h3><img src="language-icons/typescript-eca22d50.svg" width="20" height="20"> Typescript</h3>
  - [![Claudeview](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb80&width=79&height=12&lines=Claudeview%3A)](https://github.com/ccmdi) A TypeScript SDK for managing Claude Code instances.
  - [![webdle](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=50&height=12&lines=webdle%3A)](https://webdle.dev) Wordle for frontend, with AI orchestration for question generation.
  - [![Claudeflare](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=86&height=12&lines=Claudeflare%3A)](https://github.com/ccmdi/claudeflare) A Claude-controlled reverse proxy.
@@ -28,7 +28,7 @@ i try to build cool stuff
  - [![Migrations](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=79&height=12&lines=Migrations%3A)](https://github.com/ccmdi/obsidian-migrations) Bulk replace text tool for Obsidian
 </details>
 
-### <img src="language-icons/c--801c13c6.svg" width="20" height="20" align="center"/> C#
+<h3><img src="language-icons/c--801c13c6.svg" width="20" height="20"> C#</h3>
  - [![Vali GUI](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=65&height=12&lines=Vali%20GUI%3A)](https://valig.vercel.app) A visual configuration editor for Vali, a map generation tool, with JSON schema validation and expression autocomplete.
  - [![Master Duel adapter](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=144&height=12&lines=Master%20Duel%20adapter%3A)](https://www.youtube.com/watch?v=r6BojA9HlfU) Reverse engineered Yu-Gi-Oh Master Duel's effect system to allow LLMs to interface with the engine and play autonomously.
 
@@ -39,21 +39,21 @@ i try to build cool stuff
  - [![Flow Launcher - Codebases](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=187&height=12&lines=Flow%20Launcher%20-%20Codebases%3A)](https://github.com/ccmdi/Flow.Launcher.Plugin.Codebases) Flow Launcher plugin for searching local codebases.
 </details>
 
-### <img src="https://cdn.simpleicons.org/react/7991eb" width="20" height="20" align="center"/> React
+<h3><img src="language-icons/react-7ed74918.svg" width="20" height="20"> React</h3>
  - ☆ [![ccmdi](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=43&height=12&lines=ccmdi%3A)](https://ccmdi.com) A portfolio designed from my Obsidian PKMS.
  - ☆ [![Claudeverse](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb80&width=86&height=12&lines=Claudeverse%3A)](https://github.com/ccmdi) A dashboard to manage Claude Code instances, with syncback to each task's "source of truth".
  - [![immortalgames](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=101&height=12&lines=immortalgames%3A)](https://immortalgames.cc) A collection of beautiful chess games.
 
-### <img src="https://cdn.simpleicons.org/nextdotjs/7991eb" width="20" height="20" align="center"/> Nextjs
+<h3><img src="language-icons/nextjs-6417c0b1.svg" width="20" height="20"> Nextjs</h3>
  - ☆ [![Repo Scout](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=79&height=12&lines=Repo%20Scout%3A)](https://reposcout.dev) A web application that helps open-source contributors find repositories using a scoring algorithm.
  - ☆ [![metamd](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=50&height=12&lines=metamd%3A)](https://meta.ccmdi.com) Wikipedia for GeoGuessr
  - ☆ [![feed.pro](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb80&width=65&height=12&lines=feed.pro%3A)](https://github.com/ccmdi) A social media aggregator and management app for all platforms.
 
-### <img src="https://cdn.simpleicons.org/rust/7991eb" width="20" height="20" align="center"/> Rust
+<h3><img src="language-icons/rust-e999cb3e.svg" width="20" height="20"> Rust</h3>
  - [![tty](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=29&height=12&lines=tty%3A)](https://github.com/ccmdi/tty) Natural language to shell commands, instantly (via Groq)
  - [![Firefox Tabs Host](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb&width=130&height=12&lines=Firefox%20Tabs%20Host%3A)](https://github.com/ccmdi/ff-tabs-host) Native messaging host for Firefox tabs over TCP.
 
-### <img src="https://cdn.simpleicons.org/c/7991eb" width="20" height="20" align="center"/> C
+<h3><img src="language-icons/c-8174d031.svg" width="20" height="20"> C</h3>
  - [![Chess puzzle extender](https://readme-typing-svg-ccmdi.vercel.app?center=false&vCenter=true&font=Fira+Code&weight=700&size=12&duration=1&pause=999999&color=7991eb80&width=158&height=12&lines=Chess%20puzzle%20extender%3A)](https://github.com/ccmdi) Tool to find the longest possible chess puzzle from a given starting position
 
 
